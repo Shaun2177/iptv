@@ -1,9 +1,9 @@
 #EXTM3U
 	
-#EXTINF:-1 tvg-name="Achshav 14" tvg-logo="https://i.imgur.com/Iq2Kb69.png" tvg-id="Now14.il" group-title="TV",ערוץ 14
+#EXTINF:-1 tvg-name="Now 14" tvg-logo="https://i.imgur.com/Iq2Kb69.png" tvg-id="Now14.il" group-title="TV",ערוץ 14
 https://ch14-channel14-content.akamaized.net/hls/live/2104807-b/CH14_CHANNEL14/master.m3u8
 
-#EXTINF:-1 tvg-name="כאן חינוכית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="TV",כאן חינוכית
+#EXTINF:-1 tvg-name="Kan Educational" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="TV",כאן חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 
 #EXTINF:-1 tvg-chno="11" group-title="TV" tvg-id="Kan 11" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", Kan 11
