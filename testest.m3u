@@ -1,0 +1,76 @@
+#EXTM3U
+	
+#EXTINF:-1 tvg-name="Now 14" tvg-logo="https://i.imgur.com/Iq2Kb69.png" tvg-id="Now14.il" group-title="TV",ערוץ 14
+https://ch14-channel14-content.akamaized.net/hls/live/2104807-b/CH14_CHANNEL14/master.m3u8
+
+#EXTINF:-1 tvg-name="Kan Educational" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="TV",כאן חינוכית
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Kan 11" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", Kan 11
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png", Keshet 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/profileManifest.m3u8?_uid=f0ea0c4b-0bfe-491a-a7d6-7cfd23125300&rK=a4f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
+
+#EXTINF:-1 group-title="TV" tvg-id="Reshet 13" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg", Reshet 13
+http://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="i24" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg", i24 News
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="Yes Movies Kids" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png", Yes Kids Movies
+https://zekonew.iosplayer.ru/zeko/premium544/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Movies" tvg-id="Yes Movies Action" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png", Yes Action Movies
+https://zekonew.iosplayer.ru/zeko/premium543/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Movies" tvg-id="Yes Movies Comedy" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesComedy.png", Yes Comedy Movies
+https://zekonew.iosplayer.ru/zeko/premium545/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sport 1" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png", Sport 1
+https://zekonew.iosplayer.ru/zeko/premium140/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sport 2" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-3.png", Sport 2
+https://zekonew.iosplayer.ru/zeko/premium141/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sport 3" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-4.png", Sport 3
+https://zekonew.iosplayer.ru/zeko/premium142/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sport 4" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-5.png", Sport 4
+https://zekonew.iosplayer.ru/zeko/premium143/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sport 5" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg", Sport 5
+https://zekonew.iosplayer.ru/zeko/premium144/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sport 5 Plus" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Plus.jpg", Sport 5 Plus
+https://zekonew.iosplayer.ru/zeko/premium145/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sport 5 Live" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Live.jpg", Sport 5 Live
+https://zekonew.iosplayer.ru/zeko/premium146/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sport 5 Stars" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Stars.jpg", Sport 5 Stars
+https://zekonew.iosplayer.ru/zeko/premium147/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sport One" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-1.png", Sport One 1
+https://windnew.iosplayer.ru/wind/premium541/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sport One 2" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png", Sport One 2
+https://ddy6new.iosplayer.ru/ddy6/premium542/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="NFL Network" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png", NFL Network
+https://zekonew.iosplayer.ru/zeko/premium405/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="199136" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsNFL.png", Sky Sports NFL
+# EPG: https://epg.pw/api/epg.xml?channel_id=199136
+https://nfsnew.koskoros.ru/nfs/premium37/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsMainEvent.png", Sky Sports Main Event
+https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="403793" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png", ESPN
+# EPG: https://epg.pw/api/epg.xml?channel_id=403793
+https://zekonew.iosplayer.ru/zeko/premium44/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#EXTINF:-1 group-title="Sports" tvg-id="403821" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN2.png", ESPN 2
+# EPG: https://epg.pw/api/epg.xml?channel_id=403821
+https://windnew.iosplayer.ru/wind/premium45/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
