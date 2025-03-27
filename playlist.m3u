@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,Example Stream 1
-https://path/to/stream1.m3u8
-#EXTINF:-1,Example Stream 2
-https://path/to/stream2.m3u8
-#EXTINF:-1,Example Stream 3
-https://path/to/stream3.m3u8
