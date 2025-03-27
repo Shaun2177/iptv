@@ -1,3 +1,5 @@
+﻿#EXTM3U
+
 #EXTINF:-1 tvg-name="9 канал Ⓨ" tvg-logo="https://i.imgur.com/pttM3KQ.png" tvg-id="Channel9.il" group-title="Israel",9 канал Ⓨ
 https://www.youtube.com/@israel9tv/live
 
@@ -21,8 +23,6 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 
 #EXTINF:-1 tvg-name="Knesset" tvg-logo="https://i.imgur.com/PEdXHSE.png" tvg-id="Knesset.il" group-title="Israel",Knesset
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
-
-﻿#EXTM3U
 
 #EXTINF:-1 tvg-chno="11" group-title="News" tvg-id="Kan 11" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", Kan 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
