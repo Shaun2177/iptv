@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="TV" tvg-name="Now14.il" tvg-logo="https://play-lh.googleusercontent.com/_L94ZPh3EArQABPmxIxjHC2KTughwGUuqi-mgIRXmRsdoO4Dom7h-MxumNJo6Jc1J7I" tvg-id="Now14.il", ערוץ 14
+http://143.47.255.70:1234/proxy/https%3A%2F%2Fch14-channel14-content.akamaized.net%2Fhls%2Flive%2F2104807-b%2FCH14_CHANNEL14%2Fmaster.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-name="KanEducational.il" tvg-logo="https://play-lh.googleusercontent.com/CJjG5VdfrxPP2IF10gGkUedNAaasR-88wr3Z8Wra2e7EjtYvORCCZWflWGq05NxZ6kY" tvg-id="KanEducational.il", כאן חינוכית
+http://143.47.255.70:1234/proxy/https%3A%2F%2Fkan23.media.kan.org.il%2Fhls%2Flive%2F2024691%2F2024691%2Fmaster.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Kan 11" tvg-logo="https://yt3.googleusercontent.com/qnEYWQm-pfe8d7B9jwVOsW1rk-sZ5drCg5q9VzVLbM74VP_4IiryVTW-DMPnjdo1qBhFN7WYZ1s=s900-c-k-c0x00ffffff-no-rj", כאן 11
+http://143.47.255.70:1234/proxy/https%3A%2F%2Fkan11.media.kan.org.il%2Fhls%2Flive%2F2024514%2F2024514%2Fmaster.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Keshet 12" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png", קשת 12
+http://143.47.255.70:1234/proxy/https%3A%2F%2Fmako-streaming.akamaized.net%2Fstream%2Fhls%2Flive%2F2033791%2Fk12dvr%2Fprofile%2F2%2FprofileManifest.m3u8%3F_uid%3Df0ea0c4b-0bfe-491a-a7d6-7cfd23125300%26rK%3Da4f873-f654-4ab8-a86c-4aa2bbfc909d%26rK%3Da1
+
+#EXTINF:-1 group-title="TV" tvg-id="Reshet 13" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg", רשת 13
+http://143.47.255.70:1234/proxy/http%3A%2F%2F143.47.255.70%3A1234%2Fmedia%2Fcdefce3a-14ec-46cc-a147-1275c4a8b9ed%2FmainManifest.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="i24" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg", i24 News
+http://143.47.255.70:1234/proxy/https%3A%2F%2Fbcovlive-a.akamaihd.net%2Fd89ede8094c741b7924120b27764153c%2Feu-central-1%2F5377161796001%2Fplaylist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Channel 26" tvg-logo="https://m.isramedia.net/images/users/2/b000595894b61c8b1c280b210ad88031.png", ערוץ 26
+http://143.47.255.70:1234/proxy/https%3A%2F%2Fd3snfszc9pg25z.cloudfront.net%2Fout%2Fv1%2F11329fc2b33a4eca9a2d715c652aa167%2Fmaster.m3u8
