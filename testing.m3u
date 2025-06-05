@@ -10,12 +10,6 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Kan 11" tvg-logo="https://yt3.googleusercontent.com/qnEYWQm-pfe8d7B9jwVOsW1rk-sZ5drCg5q9VzVLbM74VP_4IiryVTW-DMPnjdo1qBhFN7WYZ1s=s900-c-k-c0x00ffffff-no-rj", כאן 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Kan 11" tvg-logo="https://yt3.googleusercontent.com/qnEYWQm-pfe8d7B9jwVOsW1rk-sZ5drCg5q9VzVLbM74VP_4IiryVTW-DMPnjdo1qBhFN7WYZ1s=s900-c-k-c0x00ffffff-no-rj", כאן 11
-https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_sdqcljik/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Kan 11" tvg-logo="https://yt3.googleusercontent.com/qnEYWQm-pfe8d7B9jwVOsW1rk-sZ5drCg5q9VzVLbM74VP_4IiryVTW-DMPnjdo1qBhFN7WYZ1s=s900-c-k-c0x00ffffff-no-rj", כאן 11
-https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_8ji7g6s3/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Kan 11" tvg-logo="https://yt3.googleusercontent.com/qnEYWQm-pfe8d7B9jwVOsW1rk-sZ5drCg5q9VzVLbM74VP_4IiryVTW-DMPnjdo1qBhFN7WYZ1s=s900-c-k-c0x00ffffff-no-rj", כאן 11
-https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_syhxntss/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Keshet 12" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png", קשת 12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/profileManifest.m3u8?_uid=f0ea0c4b-0bfe-491a-a7d6-7cfd23125300&rK=a4f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
