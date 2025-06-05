@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="TV" tvg-id="Channel 26" tvg-logo="https://m.isramedia.net/images/users/2/b000595894b61c8b1c280b210ad88031.png", ערוץ 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://zekonew.newkso.ru/zeko/premium143/mono.m3u8
