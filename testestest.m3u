@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="TV" tvg-name="KanEducational.il" tvg-logo="https://play-lh.googleusercontent.com/CJjG5VdfrxPP2IF10gGkUedNAaasR-88wr3Z8Wra2e7EjtYvORCCZWflWGq05NxZ6kY", כאן חינוכית
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-name="Kan 11" tvg-logo="https://yt3.googleusercontent.com/qnEYWQm-pfe8d7B9jwVOsW1rk-sZ5drCg5q9VzVLbM74VP_4IiryVTW-DMPnjdo1qBhFN7WYZ1s=s900-c-k-c0x00ffffff-no-rj", כאן 11
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-name="Reshet 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/New_Logo_13_2022.jpg", רשת 13
+https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
